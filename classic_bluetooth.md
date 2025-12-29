@@ -1,5 +1,5 @@
 
-# 📘 CLASSIC BLUETOOTH (BR/EDR)
+# 1.CLASSIC BLUETOOTH (BR/EDR)
 ### **Definition**
 
 Classic Bluetooth, also known as **Basic Rate / Enhanced Data Rate (BR/EDR)**, is a short-range wireless communication technology designed for **continuous data transmission** such as **audio streaming, voice calls, and peripheral connectivity**.
@@ -14,7 +14,7 @@ Classic Bluetooth, also known as **Basic Rate / Enhanced Data Rate (BR/EDR)**, i
 
 ---
 
-## 2️⃣ Bluetooth Architecture
+## 2.Bluetooth Architecture
 
 ### **Definition**
 
@@ -43,7 +43,7 @@ Each layer:
 
 ---
 
-## 3️⃣ Radio Layer
+## 3️. Radio Layer
 
 ### **Definition**
 
@@ -62,7 +62,7 @@ The Radio Layer is the **physical transmission layer** responsible for sending a
 
 ---
 
-## 4️⃣ Frequency Hopping Spread Spectrum (FHSS)
+## 4️. Frequency Hopping Spread Spectrum (FHSS)
 
 ### **Definition**
 
@@ -77,7 +77,7 @@ FHSS is a technique where the transmitter and receiver **rapidly switch frequenc
 
 ---
 
-## 5️⃣ Baseband Layer
+## 5️. Baseband Layer
 
 ### **Definition**
 
@@ -100,7 +100,7 @@ The Baseband layer manages **physical link creation, packet formatting, timing, 
 
 ---
 
-## 6️⃣ Piconet
+## 6️. Piconet
 
 ### **Definition**
 
@@ -117,7 +117,7 @@ A Piconet is a Bluetooth network consisting of **one master device and up to sev
 
 ---
 
-## 7️⃣ Scatternet
+## 7️. Scatternet
 
 ### **Definition**
 
@@ -133,7 +133,7 @@ A Scatternet is formed when a device participates in **multiple piconets simulta
 
 ---
 
-## 8️⃣ Link Manager Protocol (LMP)
+## 8️. Link Manager Protocol (LMP)
 
 ### **Definition**
 
@@ -154,7 +154,7 @@ LMP is responsible for **link setup, configuration, authentication, and security
 
 ---
 
-## 9️⃣ Host Controller Interface (HCI)
+## 9️. Host Controller Interface (HCI)
 
 ### **Definition**
 
@@ -179,7 +179,7 @@ HCI is the standardized interface between the **Host (OS/stack)** and **Controll
 
 ---
 
-## 🔟 L2CAP
+## 10. L2CAP
 
 ### **Definition**
 
@@ -197,7 +197,7 @@ Logical Link Control and Adaptation Protocol (L2CAP) provides **protocol multipl
 
 ---
 
-## 1️⃣1️⃣ RFCOMM
+## 1️1. RFCOMM
 
 ### **Definition**
 
@@ -215,7 +215,7 @@ RFCOMM is a protocol that emulates **RS-232 serial communication** over Bluetoot
 
 ---
 
-## 1️⃣2️⃣ Service Discovery Protocol (SDP)
+## 1️2️. Service Discovery Protocol (SDP)
 
 ### **Definition**
 
@@ -232,7 +232,7 @@ SDP allows a Bluetooth device to **discover services and capabilities** of anoth
 
 ---
 
-## 1️⃣3️⃣ SCO (Synchronous Connection-Oriented)
+## 1️3️. SCO (Synchronous Connection-Oriented)
 
 ### **Definition**
 
@@ -246,7 +246,7 @@ SCO is a dedicated link for **real-time voice transmission** with fixed bandwidt
 
 ---
 
-## 1️⃣4️⃣ eSCO
+## 1️4️. eSCO
 
 ### **Definition**
 
@@ -260,7 +260,7 @@ Enhanced SCO (eSCO) is an improved SCO link that allows **retransmissions**.
 
 ---
 
-## 1️⃣5️⃣ Bluetooth Profiles
+## 1️5️ Bluetooth Profiles
 
 ### **Definition**
 
@@ -302,7 +302,7 @@ Supports **human interface devices** like keyboards and mice.
 
 ---
 
-## 1️⃣6️⃣ Pairing
+## 1️6️ Pairing
 
 ### **Definition**
 
@@ -316,7 +316,7 @@ Pairing is the process of **establishing trust** between two Bluetooth devices.
 
 ---
 
-## 1️⃣7️⃣ Bonding
+## 1️7️ Bonding
 
 ### **Definition**
 
@@ -324,7 +324,7 @@ Bonding is the process of **storing pairing keys** for future reconnections.
 
 ---
 
-## 1️⃣8️⃣ Secure Simple Pairing (SSP)
+## 1️8️ Secure Simple Pairing (SSP)
 
 ### **Definition**
 
@@ -339,7 +339,7 @@ SSP is a pairing mechanism introduced to **simplify and secure** the pairing pro
 
 ---
 
-## 1️⃣9️⃣ Security & Encryption
+## 1️9️ Security & Encryption
 
 ### **Definition**
 
@@ -353,7 +353,7 @@ Security ensures **confidentiality, integrity, and authentication** of Bluetooth
 
 ---
 
-## 2️⃣0️⃣ Power Management
+## 2️0️ Power Management
 
 ### **Definition**
 
@@ -368,7 +368,7 @@ Power management reduces energy consumption during idle periods.
 
 ---
 
-## 2️⃣1️⃣ Quality of Service (QoS)
+## 2️1️ Quality of Service (QoS)
 
 ### **Definition**
 
@@ -376,7 +376,7 @@ QoS ensures **predictable data delivery** for time-sensitive applications.
 
 ---
 
-## 2️⃣2️⃣ Error Control
+## 2️2️ Error Control
 
 ### **Definition**
 
@@ -390,7 +390,7 @@ Error control detects and corrects transmission errors.
 
 ---
 
-## 2️⃣3️⃣ Debugging & Testing
+## 2️3️ Debugging & Testing
 
 ### **Definition**
 
@@ -405,7 +405,7 @@ Debugging involves analyzing Bluetooth traffic to identify failures.
 
 ---
 
-## 2️⃣4️⃣ Classic Bluetooth in OS
+## 2️4️ Classic Bluetooth in OS
 
 ### **Android**
 
@@ -416,7 +416,7 @@ Debugging involves analyzing Bluetooth traffic to identify failures.
 * BlueZ stack
 
 
-## 2️⃣5️⃣ Real-World Use Cases
+## 2️5️ Real-World Use Cases
 
 ### **Definition**
 
