@@ -32,14 +32,14 @@ I’ll cover **exactly these profiles** (and a bit more where needed):
 
 ## Example
 
-| Task                       | Profile |
-| -------------------------- | ------- |
-| Play music                 | A2DP    |
-| Control music (play/pause) | AVRCP   |
-| Phone call                 | HFP     |
-| Read phone contacts        | PBAP    |
-| Send file                  | OPP     |
-| Internet sharing           | PAN     |
+| Task                                     | Profile |
+| --------------------------               | ------- |
+| Play music                               | A2DP    |
+| Control music (play/pause)               | AVRCP   |
+| Phone call                               | HFP     |
+| Read phone contacts                      | PBAP    |
+| Send file                                | OPP     |
+| Internet sharing                         | PAN     |
 
 ---
 
